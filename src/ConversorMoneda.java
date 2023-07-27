@@ -32,7 +32,7 @@ public class ConversorMoneda {
                     JOptionPane.showMessageDialog(null, "Valor no válido");
 
                     valorConvertir = JOptionPane.showInputDialog(null,
-                            "Por favor ingresa números para realizar la conversión",
+                            "Por favor ingresa números validos",
                             "ERROR !", JOptionPane.ERROR_MESSAGE);
 
                 }
